@@ -1,0 +1,9 @@
+﻿<Application x:Class="Pizzza_Admin_felulet.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Pizzza_Admin_felulet"
+             StartupUri="Bejelentkezes.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
